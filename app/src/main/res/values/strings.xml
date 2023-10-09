@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Note App</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title:</string>
+    <string name="description">Description:</string>
+    <string name="addnote">AddNote</string>
+    <string name="item_title">Item title</string>
+    <string name="item_description">item description</string>
+    <string name="update_note">Update Note</string>
+</resources>
